@@ -16,10 +16,6 @@ return [
 	],
 	'runescape' => [
 		'runescape' => 'Runescape',
-		'guides'    => [
-			'quests'    => 'Quest Guides',
-			'locations' => 'Location Guides',
-		],
 		'databases' => [
 			'items'    => 'Item Database',
 			'monsters' => 'Monsters Database',
