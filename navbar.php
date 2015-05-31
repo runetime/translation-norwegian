@@ -24,7 +24,6 @@ return [
 			'items'    => 'Item Database',
 			'monsters' => 'Monsters Database',
 		],
-		'world_map'         => 'Kart',
 		'calculators'       => 'Kalkulatorer',
 		'play'              => 'Spill Runescape',
 		'name_checker'      => 'Navn Kontrollør',
