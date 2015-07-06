@@ -15,11 +15,7 @@ return [
 		'help'       => 'Hjelp',
 	],
 	'runescape' => [
-		'runescape' => 'Runescape',
-		'databases' => [
-			'items'    => 'Item Database',
-			'monsters' => 'Monsters Database',
-		],
+		'runescape'         => 'Runescape',
 		'calculators'       => 'Kalkulatorer',
 		'play'              => 'Spill Runescape',
 		'name_checker'      => 'Navn Kontrollør',
